@@ -1,0 +1,1 @@
+const contante = 3
